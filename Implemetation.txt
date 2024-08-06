@@ -1,0 +1,36 @@
+                STEPS TO EXECUTE CODE FILES
+
+
+Steps to execute the Code
+
+1. Install required software,such as Python
+2. Install the libraries such as Scikit-learn,Scipy,Streamlit,Pandas,Pickle,pycodestyle  
+3. Use a suitable Integrated Development Environment(IDE) like Visual Studio Code,PyCharm,orEclipse for coding,debugging and testing.
+4. Set up linters like PyLint for Python, HTMLHINT for HTML, CSSLINT for CSS and JSHINT for JavaScript to analyze code quality and adherence to coding standards.
+5. Load the Pre-Trained Models, such as word embeddings for NLP tasks or machine learning models for recommendation algorithms
+6. Run the main.py, it will open the result in the browser.
+7. After executing the code, select the programming language you want to code and start typing the code.
+8. It shows the score and error messages and display the recommended code snippets.
+
+
+
+Steps to execute Oral Code
+
+1. Install the IDE you want to code like visual studio code.
+2. Install the libraries using the command pip install "Library name".
+3. Library Installation:
+     -open the terminal
+     -Install the required libraries using the following commands:
+      pip install numpy
+      pip install pandas
+      pip install matplotlib
+      pip install scikit-learn
+      pip install streamlit
+      pip install pycodestyle
+      pip install pickle
+4. Download the code dataset in four programming languages like Python, Java, CSS,JavaScript and combine these datasets and integrate the codes of HTML from github links.
+5. Run the code to load data, preprocesss it,build the model,train the model,evaluate performance and save the model.
+6. After running the code the results are displayed in the browser
+7. Select the programming language you want to code, the default language is Python and start typing the code.
+8. After writing the code press "Enter" and "Tab" to give the score and recommended code snippets.
+                    
