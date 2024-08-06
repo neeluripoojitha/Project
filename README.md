@@ -1,4 +1,4 @@
-                                    RECOMMENDATION SYSTEM FOR CODE VALIDATION AND OPTIMAL REFACTORING
+                      RECOMMENDATION SYSTEM FOR CODE VALIDATION AND OPTIMAL REFACTORING
 
 The "Novel Recommendation System for Code Validation and Optimal Refactoring" project follows a two-phase methodology to address the limitations of the original Clean CaDET research work.
 In the first phase, code smells are detected using static code analysis APIs and programming standards.
