@@ -1,4 +1,4 @@
-![Recommendation_System_for_code_validation_and_optimal_Refactoring](https://github.com/pavulurihemachowdary/Cleancode/assets/104762214/72081329-f5f7-4348-99d4-bd64a923fdc5)
+                                              RECOMMENDATION SYSTEM FOR CODE VALIDATION AND OPTIMAL REFACTORING
 
 The "Novel Recommendation System for Code Validation and Optimal Refactoring" project follows a two-phase methodology to address the limitations of the original Clean CaDET research work.
 In the first phase, code smells are detected using static code analysis APIs and programming standards.
